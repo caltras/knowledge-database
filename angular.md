@@ -8,3 +8,6 @@
       </button>
     </mat-menu>
     `
+
+2 Dynamic Theme
+  - https://coryrylan.com/blog/theming-angular-apps-with-css-custom-properties
